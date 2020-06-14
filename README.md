@@ -1,1 +1,0 @@
-# sagemaker-imdbreviews-rnn-pytorch
